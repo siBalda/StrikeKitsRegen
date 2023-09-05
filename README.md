@@ -1,5 +1,6 @@
 # StrikeKitsRegen
 Fast and simple addon for StrikePractice plugin.
+The plugin wants to make your players ready to fight everytime.
 
 Features (customizable in config):
 - Feed the player when he kills someone in a FFA arena.
