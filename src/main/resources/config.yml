@@ -1,0 +1,8 @@
+#If the player kills another player in a FFA arena, feed him.
+feed_on_ffa_kill: true
+#If the player kills another player in a FFA arena, heal him.
+heal_on_ffa_kill: true
+#If the player kills another player in a FFA arena, restore his kit.
+#This feature restore the last kit the player selected. Even if the player selected a custom layout of the kit, it will be restored.
+#If the player has no custom layouts, it will restore the default kit of that arena.
+restore_kit_on_ffa_kill: true
